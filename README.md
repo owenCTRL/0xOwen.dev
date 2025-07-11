@@ -1,7 +1,7 @@
 <!-- PROFILE README START -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=1500&pause=2000&color=1DA1F2&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Owen;Builder+of+systems+and+strategies.;Founder+of+OTTR+%F0%9F%A6%A6;@Clickroot+%F0%9F%8C%B2%2C+@SandboxResearch+%F0%9F%90%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=1500&pause=2000&color=1DA1F2&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Owen;Founder+@+OTTR+%F0%9F%A6%A6;@Clickroot%F0%9F%8C%B2%2C+@SandboxResearch%F0%9F%90%A6;Builder+of+systems+and+strategies+that+dominate." alt="Typing SVG" />
 </h1>
 
 <br />
