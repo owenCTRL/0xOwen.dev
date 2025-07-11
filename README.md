@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business-Creator-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business-Founder-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Currently-Learning-green?style=for-the-badge&logo=c"/>
 </p>
 <p align="center">
