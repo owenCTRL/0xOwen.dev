@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on: `OTTR`
 - 🌱 Currently learning: `AI Agentic Workflows`, `Advanced Data Modeling`, `Quantitative Reasoning`
 - 💬 Ask me about: `Strategy`, `Game Theory`, `Finance`, `Trading`
-- ⚡ Did you know?: 'The world' was made by people **no smarter than you.**
+- ⚡ Did you know? 'The world' was made by people **no smarter than you.**
 
 <br />
 
